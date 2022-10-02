@@ -1,0 +1,10 @@
+/* Put your css here */
+
+body {
+  background-color: rgb(251, 178, 165);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 760px;
+}
